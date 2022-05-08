@@ -1,0 +1,11 @@
+server:
+  port: 8081
+
+app:
+  api:
+    title: @artifactId@
+    version: @version@
+    description: @description@
+    base-package: com.adidas.email
+    contact-name: Borja
+    contact-email: borjacolmenarejo@gmail.com
